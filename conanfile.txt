@@ -2,6 +2,8 @@
 asio/1.24.0
 openssl/1.1.1q
 zlib/1.2.13
+llhttp/6.0.6
+gtest/cci.20210126
 
 [generators]
 cmake_find_package
